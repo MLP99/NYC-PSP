@@ -1,5 +1,5 @@
 # New York City Property Sales Predictor (PSP)
-For this personal project, I build a machine learning model that could predict prices for properties in New York City. The reason why I did this project is that I'm very interested in real estate wanted to know more about this domain and learn more about machine learning. This project is divided into 3 sections: EDA, data preparation and model building. I achieved the following things:
+For this personal project, I build a machine learning model in Python that could predict prices for properties in New York City. The reason why I did this project is that I'm very interested in real estate wanted to know more about this domain and learn more about machine learning. This project is divided into 3 sections: EDA, data preparation and model building. I achieved the following things:
 
 * Completed an Exploratory Data Analysis on the 80,000 properties in the dataset
 * Built a machine learning model that could predict property prices in New York City
@@ -10,6 +10,16 @@ After doing this project I learned the following. Although I didn't deploy this 
 
 My next step for this project is to use hyperparameter tuning to improve my model's performance and use gradient boosters for example XGBoost that also could help in the process of achieving better results. After building a great model I would like to deploy it and use it in a web application where a user can use it to predict property prices.
 
+## Data 
+Data I used in this project:
+
+* New York City property sales dataset: https://www.kaggle.com/new-york-city/nyc-property-sales
+* New York City census dataset: https://www.kaggle.com/muonneutrino/new-york-city-census-data
 ## EDA
+In this section, I would like to highlight a few visualizations that I made in my EDA with the Seaborn library for Python.
+
 ![](images/dsp.png)
 ![](images/ovsdsp.png)
+![](images/rp.png)
+
+
